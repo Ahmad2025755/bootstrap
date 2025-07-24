@@ -1,0 +1,17 @@
+body.dark{
+    color: white;
+    background: black;
+}
+
+button{
+    display: block;
+    margin: 5px;
+}
+
+
+.TextEntry{
+
+margin-top: 12px;
+margin-bottom: 15px;
+
+}
